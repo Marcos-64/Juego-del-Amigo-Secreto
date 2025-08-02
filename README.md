@@ -29,7 +29,7 @@ Este juego te permite agregar el nombre de tus amigos a una lista y realizar un 
 
    ## Créditos
 
-Este proyecto fue creado por [Marcos Sébastian Baldassi](https://github.com/Marcos-64) como ejercicio del curso de programación de [Alura](https://www.aluracursos.com/)
+Este proyecto fue creado por [Marcos Sebastián Baldassi](https://github.com/Marcos-64) como ejercicio del curso de programación de [Alura](https://www.aluracursos.com/)
 
 Sigue a Alura en:
 
